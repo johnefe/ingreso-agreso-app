@@ -1,2 +1,4 @@
 ng g c auth/login --spec=false -is
 npm i bootstrap --save
+
+ng add @angular/fire
